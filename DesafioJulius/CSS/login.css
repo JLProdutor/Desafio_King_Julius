@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color: red;
+}
+.input2{
+    background-color: red;
+}
+fieldset{
+   border-color: red;
+}
+#textin2{
+    color: red;
+}
+#linkcadastro{
+    color: rgb(255, 30, 30);
+}
+#entrar{
+    background-color: red;
+}

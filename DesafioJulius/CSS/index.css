@@ -1,0 +1,52 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color: black;
+}
+
+table {
+    color: red;
+    margin: auto;
+
+}
+
+h1 {
+    color: red;
+
+}
+
+#fe {
+    color: red;
+}
+
+table th,
+td {
+    border: ridge 5px red;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+th {
+    padding: 15px;
+    text-align: left;
+    border: 2px red;
+
+
+
+}
+
+table {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+form{
+    background-color: white;
+    border: 5px ridge red;
+}
